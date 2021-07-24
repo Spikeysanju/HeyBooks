@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HeyBooks</string>
+    <string name="text_back_button">Back Button</string>
+    <string name="text_bookList">Book List</string>
+    <string name="text_bookDetails">Book Details</string>
+    <string name="text_search">Search for books...</string>
+    <string name="text_title">Explore thousands of \nbooks in go</string>
+    <string name="text_description">Book Details</string>
+
+
+</resources>
